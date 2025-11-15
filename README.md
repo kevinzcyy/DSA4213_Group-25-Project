@@ -45,7 +45,6 @@ Please refer to the accompanying **project report**.
 ## 👥 Authors
 
 **Group 25**
-
 * Kwok Zhi Wei
 * Kevin Zhu Chun Yin
 * Teo Bing Xing Kenneth
